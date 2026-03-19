@@ -1,4 +1,4 @@
-# Abdoulaye Bamba
+# Abdoulaye BAMBA
 
 Senior Technologist with 20+ years of experience in banking technology, enterprise architecture, software development, and venture building.
 
